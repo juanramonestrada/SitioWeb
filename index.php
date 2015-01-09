@@ -1,17 +1,10 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: juan
- * Date: 21/10/14
- * Time: 10:29 PM
- */
-
-public class Demo {
-    private $url = "";
-    private $id = 1;
-    public function __construct(){
-        $this->id = 1;
-
-    }
-}
-?>
+<!DOCTYPE html>
+    <html>
+<head>
+    <title>Titulo principal</title>
+</head>
+<body>
+    <h1>Comentario</h1>
+    <p>ejemplo de parrafo.</p>
+</body>
+</html>
